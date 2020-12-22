@@ -1,0 +1,29 @@
+Partners.txt
+
+CLASS:    ECE322
+TASK:     Assignment 2: GoFish
+Partners: Joshua Teixeira, Wilson Tran
+NETIDs:   joshuateixei, wtran
+
+Work Breakdown:
+
+
+gofish.h/c			- Joshua
+
+deck.c
+	shuffle 		- Joshua
+	next_card		- Wilson
+	deck_size		- Wilson
+	deal_player...	- Wilson
+	cleanRand		- Joshua
+
+player.c
+	add_card		- Joshua
+	remove_card		- Joshua
+	check_add_book	- Wilson
+	search			- Wilson
+	transfer_cards	- Joshua
+	game_over		- Joshua
+	reset_player	- Wilson
+	computer_play	- Joshua
+	user_play		- Wilson
